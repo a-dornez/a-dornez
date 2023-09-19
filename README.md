@@ -19,8 +19,8 @@ I love the idea of getting to know people from all arround the world through our
 </div>
 <br>
 
-<!DOCTYPE html>
-<html>
+<!--
+<!DOCTYPE html><html>
 <head>
     <style>
         body {
@@ -47,14 +47,33 @@ I love the idea of getting to know people from all arround the world through our
     </div>
 </body>
 </html>
-
+-->
 ## Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/antonio-dias-b00008268/) 
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=a-dornez&style=for-the-badge)
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .badge-container {
+            display: inline-block;
+            transform: scale(0.8); /* Adjust the scale factor as needed to reduce the size */
+        }
+    </style>
+</head>
+<body>
+    <div class="badge-container">
+        <img src="https://komarev.com/ghpvc/?username=a-dornez&style=for-the-badge" alt="GitHub Profile Views Badge">
+    </div>
+</body>
+</html>
 
+
+<!--
+![](https://komarev.com/ghpvc/?username=a-dornez&style=for-the-badge)
+-->
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-dornez&theme=&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=FFA726&hide_title=true&text_color=FFF)
 
