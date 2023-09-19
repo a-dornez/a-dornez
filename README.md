@@ -53,22 +53,7 @@ I love the idea of getting to know people from all arround the world through our
 
 <br>
 
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        .badge-container {
-            display: inline-block;
-            transform: scale(0.8); /* Adjust the scale factor as needed to reduce the size */
-        }
-    </style>
-</head>
-<body>
-    <div class="badge-container">
-        <img src="https://komarev.com/ghpvc/?username=a-dornez&style=for-the-badge" alt="GitHub Profile Views Badge">
-    </div>
-</body>
-</html>
+![](https://komarev.com/ghpvc/?username=a-dornez&style=for-the-badge)
 
 
 <!--
